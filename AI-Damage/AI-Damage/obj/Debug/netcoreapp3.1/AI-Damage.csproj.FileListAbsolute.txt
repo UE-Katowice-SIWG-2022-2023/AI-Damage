@@ -1,0 +1,14 @@
+D:\Gry\Git_Projects\Aidamage\AI-Damage\AI-Damage\AI-Damage\bin\Debug\netcoreapp3.1\AI-Damage.exe
+D:\Gry\Git_Projects\Aidamage\AI-Damage\AI-Damage\AI-Damage\bin\Debug\netcoreapp3.1\AI-Damage.deps.json
+D:\Gry\Git_Projects\Aidamage\AI-Damage\AI-Damage\AI-Damage\bin\Debug\netcoreapp3.1\AI-Damage.runtimeconfig.json
+D:\Gry\Git_Projects\Aidamage\AI-Damage\AI-Damage\AI-Damage\bin\Debug\netcoreapp3.1\AI-Damage.runtimeconfig.dev.json
+D:\Gry\Git_Projects\Aidamage\AI-Damage\AI-Damage\AI-Damage\bin\Debug\netcoreapp3.1\AI-Damage.dll
+D:\Gry\Git_Projects\Aidamage\AI-Damage\AI-Damage\AI-Damage\bin\Debug\netcoreapp3.1\AI-Damage.pdb
+D:\Gry\Git_Projects\Aidamage\AI-Damage\AI-Damage\AI-Damage\obj\Debug\netcoreapp3.1\AI-Damage.csproj.AssemblyReference.cache
+D:\Gry\Git_Projects\Aidamage\AI-Damage\AI-Damage\AI-Damage\obj\Debug\netcoreapp3.1\AI-Damage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gry\Git_Projects\Aidamage\AI-Damage\AI-Damage\AI-Damage\obj\Debug\netcoreapp3.1\AI-Damage.AssemblyInfoInputs.cache
+D:\Gry\Git_Projects\Aidamage\AI-Damage\AI-Damage\AI-Damage\obj\Debug\netcoreapp3.1\AI-Damage.AssemblyInfo.cs
+D:\Gry\Git_Projects\Aidamage\AI-Damage\AI-Damage\AI-Damage\obj\Debug\netcoreapp3.1\AI-Damage.csproj.CoreCompileInputs.cache
+D:\Gry\Git_Projects\Aidamage\AI-Damage\AI-Damage\AI-Damage\obj\Debug\netcoreapp3.1\AI-Damage.dll
+D:\Gry\Git_Projects\Aidamage\AI-Damage\AI-Damage\AI-Damage\obj\Debug\netcoreapp3.1\AI-Damage.pdb
+D:\Gry\Git_Projects\Aidamage\AI-Damage\AI-Damage\AI-Damage\obj\Debug\netcoreapp3.1\AI-Damage.genruntimeconfig.cache
